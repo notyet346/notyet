@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @rendanimpapele
-- 👀 I’m interested in front end web development
 - 🌱 I’m currently learning javaScript
-- 💞️ I’m looking to collaborate on things noobs can do
 - 📫 How to reach me rendanimpapele@gmail.com
 
 <!---
