@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @rendanimpapele
+- 👋 Hi, I’m @notyet
 - 🌱 I’m currently learning javaScript
-- 📫 How to reach me rendanimpapele@gmail.com
+- 📫 How to reach me shilohh346@gmail.com
 
 <!---
 rendanimpapele/rendanimpapele is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
